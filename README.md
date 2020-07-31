@@ -22,9 +22,9 @@ If new dependencies are required, they will be listed here. Operating systems sp
 
 To run the game, simply install Python 3. For now, the game runs only in a terminal. On Windows (XP+), you can use CMD.
 
-To run, navigate to the directory of xork's src:
+To run, navigate to the directory of xork's source. For example:
 
-`cd C:\xork\src`
+`cd C:\xork`
 
 Then use Python 3 to run the script.
 
@@ -38,12 +38,12 @@ Install Python 3 if it has not already been installed. You can use Python 3 or 3
 
 `sudo apt install python3`
 
-Afterward, navigate to the xork directory:
+Afterward, navigate to the xork directory. For example:
 
 `cd ~/xork/`
 
 This is how you'd execute the game inside the terminal. Enter this command:
 
-`python3 src/main.py`
+`python3 main.py`
 
 You must specify `python3` as Python 2.x is incompatible with Xork.
